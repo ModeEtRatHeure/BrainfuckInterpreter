@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+*{
+    font-family: Inconsolata;
+    background-color: #151515;
+    margin: 5px 0 0 0;
+    color: #aaa;
+}
+.terminal-lines{
+    caret-shape: block;
+    height: auto;
+    border: none;
+    resize: none;
+}
+.terminal-lines:focus{
+    outline: none;
+}
