@@ -6,9 +6,8 @@
     color: #aaa;
 }
 .terminal-lines{
-    caret-shape: block;
     height: auto;
-    border: none;
+/*     border: none; */
     resize: none;
 }
 .terminal-lines:focus{
