@@ -109,7 +109,7 @@ function findCorrespondingClosedBracket(position, text){
       }
     }
     if(offset > 1000){
-      break; //To stop infinite loop in case of too much char before the corresponding bracket
+      break; // To stop infinite loop in case of too much char before the corresponding bracket
     }
     if(text[position + offset] == "["){
       additionalOpenedBracket += 1;
