@@ -1,5 +1,5 @@
 # BrainfuckInterpreter
 
-A simple browser-base Brainfuck interpreter, with a terminal design.
+A simple browser-based Brainfuck interpreter, with a terminal design.
 
 For now, the "," is not supported.
